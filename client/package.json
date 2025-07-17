@@ -24,7 +24,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +46,12 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:4000"
+  "proxy": "http://localhost:4000",
+  "homepage": "https://leonrock128.github.io/Social_App",
+  "gh-pages": {
+  "repo": "https://github.com/leonrock128/Social_App.git"
+},
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
