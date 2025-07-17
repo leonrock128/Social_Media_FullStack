@@ -1,8 +1,3 @@
-# PostIt
-PostIt is a fully-featured social media web application, built with the MERN stack.  
-
-Deployed at: https://post-it-heroku.herokuapp.com/  
-![GIF of PostIt walkthrough](https://media.giphy.com/media/9tnaXy42T4NzSJdHhP/giphy.gif)
 
 ## Features
 - Create, read, update and delete posts
@@ -23,7 +18,7 @@ Deployed at: https://post-it-heroku.herokuapp.com/
 ## Installation and usage
 1) Clone this repository  
 ```
-git clone https://github.com/ihtasham42/social-media-app.git
+git clone https://github.com/leonrock128/Social_App.git
 ```
 2) Install dependencies  
 ```
