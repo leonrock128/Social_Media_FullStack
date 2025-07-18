@@ -22,7 +22,7 @@ git clone https://github.com/leonrock128/Social_App.git
 ```
 2) Install dependencies  
 ```
-cd social-media-app  
+cd Social_App  
 npm install
 cd client
 npm install
@@ -44,7 +44,7 @@ npm run server
 ```
 6) Start a new terminal and run react's development server
 ```
-cd social-media-app
+cd Social_App
 cd client
 npm start
 ```
